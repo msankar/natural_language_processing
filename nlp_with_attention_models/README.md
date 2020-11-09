@@ -1,9 +1,9 @@
 # Natural Language Processing with Attention Models
 
-* [Neural Machine Translation](https://github.com/msankar/natural_language_processing/tree/main/nlp_with_sequence_models/week1-NN_for_sentiment_analysis)
-* [Text Summarization](https://github.com/msankar/natural_language_processing/tree/main/nlp_with_sequence_models/week2-RNN_for_lang_modeling)
-* [Question Answering](https://github.com/msankar/natural_language_processing/tree/main/nlp_with_sequence_models/week3-LSTMs_and_NER)
-* [Chatbot](https://github.com/msankar/natural_language_processing/tree/main/nlp_with_sequence_models/week4-Siamese_Networks)
+* [Neural Machine Translation](https://github.com/msankar/natural_language_processing/tree/main/nlp_with_attention_models/week1-neural_machine_translation)
+* [Text Summarization](https://github.com/msankar/natural_language_processing/tree/main/nlp_with_attention_models/week2-text_summarization)
+* [Question Answering](https://github.com/msankar/natural_language_processing/tree/main/nlp_with_attention_models/week3-question_answering)
+* [Chatbot](https://github.com/msankar/natural_language_processing/tree/main/nlp_with_attention_models/week4-chatbot)
 
 
 REFERENCES:

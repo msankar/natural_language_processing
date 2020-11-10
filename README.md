@@ -20,7 +20,7 @@ This Specialization will equip you with the state-of-the-art deep learning techn
 
 * [Vector Space Models](https://github.com/msankar/natural_language_processing/tree/main/nlp_with_classification_and_vector_spaces/week3)-[Project](https://github.com/msankar/natural_language_processing/blob/main/nlp_with_classification_and_vector_spaces/week3/C1_W3_Assignment.ipynb)
 
-* [Machine Translation and Document Search](https://github.com/msankar/natural_language_processing/tree/main/nlp_with_classification_and_vector_spaces/week4-[Project](https://github.com/msankar/natural_language_processing/blob/main/nlp_with_classification_and_vector_spaces/week4/C1_W4_Assignment.ipynb)
+* [Machine Translation and Document Search](https://github.com/msankar/natural_language_processing/tree/main/nlp_with_classification_and_vector_spaces/week4)-[Project](https://github.com/msankar/natural_language_processing/blob/main/nlp_with_classification_and_vector_spaces/week4/C1_W4_Assignment.ipynb)
 
 * [Autocorrect and Minimum Edit Distance](https://github.com/msankar/natural_language_processing/tree/main/nlp_with_probabilistic_models/week1-autocorrect)-[Project](https://github.com/msankar/natural_language_processing/blob/main/nlp_with_probabilistic_models/week1-autocorrect/C2_W1_Assignment.ipynb)
 

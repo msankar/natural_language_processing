@@ -7,7 +7,7 @@
 
 
 REFERENCES:
-This course drew from the following resources:
+
 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (Raffel et al, 2019)
 - Reformer: The Efficient Transformer (Kitaev et al, 2020)
 - Attention Is All You Need (Vaswani et al, 2017)
